@@ -1,0 +1,10 @@
+{
+  "polls": [
+    {
+      "pollQuestion": "Will Trump win the next election?",
+      "runeA": "68781:10",
+      "runeB": "68794:7",
+      "pollAddress": "tb1pysg8ttm24unauwg62tf3ej7zwnk7jjmf7vjma805sacxx5grlp8qex0s6h"
+    }
+  ]
+}
