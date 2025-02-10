@@ -8,9 +8,9 @@
     },
     {
       "pollQuestion": "Is the black horse black?",
-      "runeA": "68781:19",
-      "runeB": "68794:17",
-      "pollAddress": "tb1pysg8ttm24unauwg62tf3ej7zwnk7jjmf7vjma805sacxx5grlp8qex0s6h"
+      "runeA": "68781:10",
+      "runeB": "68794:7",
+      "pollAddress": "tb1p2mh0hpfu6g8hvsrztkwdc0tpku5r3fzyqxt08wgtl7zpdgd97r8s9r7rry"
     }
   ]
 }
