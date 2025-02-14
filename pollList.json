@@ -4,25 +4,29 @@
       "pollQuestion": "Will Trump win the next election?",
       "runeA": "68781:10",
       "runeB": "68794:7",
-      "pollAddress": "tb1pysg8ttm24unauwg62tf3ej7zwnk7jjmf7vjma805sacxx5grlp8qex0s6h"
+      "pollAddress": "tb1pysg8ttm24unauwg62tf3ej7zwnk7jjmf7vjma805sacxx5grlp8qex0s6h",
+      "volume": "247700"
     },
     {
       "pollQuestion": "Is the black horse black?",
       "runeA": "68781:10",
       "runeB": "68794:7",
-      "pollAddress": "tb1p2mh0hpfu6g8hvsrztkwdc0tpku5r3fzyqxt08wgtl7zpdgd97r8s9r7rry"
+      "pollAddress": "tb1p2mh0hpfu6g8hvsrztkwdc0tpku5r3fzyqxt08wgtl7zpdgd97r8s9r7rry",
+      "volume": "231200"
     },
     {
       "pollQuestion": "Is Musk preparing a second coup before 2026?",
       "runeA": "68781:10",
       "runeB": "68794:7",
-      "pollAddress": "tb1pysg8ttm24unauwg62tf3ej7zwnk7jjmf7vjma805sacxx5grlp8qex0s6h"
+      "pollAddress": "tb1pysg8ttm24unauwg62tf3ej7zwnk7jjmf7vjma805sacxx5grlp8qex0s6h",
+      "volume": "112800"
     },
     {
       "pollQuestion": "Is Bitcoin reaching 120K+ this year?",
       "runeA": "68781:10",
       "runeB": "68794:7",
-      "pollAddress": "tb1p2mh0hpfu6g8hvsrztkwdc0tpku5r3fzyqxt08wgtl7zpdgd97r8s9r7rry"
+      "pollAddress": "tb1p2mh0hpfu6g8hvsrztkwdc0tpku5r3fzyqxt08wgtl7zpdgd97r8s9r7rry",
+      "volume": "62100"
     }
   ]
 }
